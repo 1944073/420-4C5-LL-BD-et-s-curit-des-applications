@@ -1,0 +1,44 @@
+{
+  "Titre": "Les Minions",
+  "directeur": "Kyle Balda, Pierre Coffin",
+  "Auteur": "Brian Lynch,",
+  "Date": 2015,
+  "description": "Minions Stuart, Kevin, and Bob are recruited by Scarlet Overkill, a supervillain who, alongside her inventor husband Herb, hatches a plot to take over the world.",
+  "Vedette": [
+    {
+      "Nom": "Sandra Bullock",
+      "Personnage": "Scarlet Overkill (voix)"
+    },
+    {
+      "Nom": "Jon Hamm",
+      "Personnage": "Herb Overkill  (voix)"
+    },
+    {
+      "Nom": "Michael Keaton",
+      "Personnage": "Walter Nelson (voix)"
+    }
+    
+  ]
+}
+{
+  "Titre": "Fight Club",
+  "directeur": "David Fincher",
+  "Auteur": "Chuck Palahniuk, Jim Uhls",
+  "Date": 1999,
+  "descripton": "An insomniac office worker and a devil-may-care soapmaker form an underground fight club that evolves into something much, much more. ",
+  "Vedette": [
+    {
+      "Nom": "Brad Pitt",
+      "Personnage": "Tyler Durden"
+    },
+    {
+      "Nom": "Edward Norton",
+      "Personnage": "Le narrateur"
+    },
+    {
+      "Nom": "Meat Loaf",
+      "Personnage": "Robert Paulson"
+    }
+    
+  ]
+}
